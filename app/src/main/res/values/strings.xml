@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">proyectoBD</string>
+    <string name="bien">Bienvenido</string>
+    <string name="continuar">Continuar</string>
+    <string name="registrar">Registrate</string>
+    <string name="registra">Registrate</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="contra">Contraseña</string>
+    <string name="sig">Continuar</string>
+    <string name="verifica">Verifica tus datos</string>
+    <string name="correoc">Correo</string>
+    <string name="contrace_a">Contraseña</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="iniciar">Iniciar sesion</string>
+    <string name="entrar">Entrar</string>
+    <string name="titulo">Datos de los Usuarios</string>
+</resources>
